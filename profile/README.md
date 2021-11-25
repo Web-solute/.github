@@ -133,7 +133,7 @@ We want to solve people's INCONVENIENCE through WEB(APP) Service.<br/>
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Web-solute&&style=flat-square" align="center" />
 </div>  
   
 
