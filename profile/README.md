@@ -9,7 +9,11 @@
 <div align="center">Websolute = Web + Solute.<br/>
 We want to solve people's INCONVENIENCE through WEB(APP) Service.<br/>
 (SINCE 2020 🚀)</div>  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Web-solute&&style=flat-square" align="center" />
+</div>  
   
+<br/>
 
 ## Project  
   
@@ -132,9 +136,4 @@ We want to solve people's INCONVENIENCE through WEB(APP) Service.<br/>
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Web-solute&&style=flat-square" align="center" />
-</div>  
   
-
-<br/>  
